@@ -4,6 +4,6 @@ my name is Sumaia Ghanem, im 24 years old , im an architect.<P>
  | name | link |
 | :---: | :---: |
 | growth mindsit |https://github.com/SUMAYAGHANEM/reading-notes-Repo/blob/main/growth.md|
-| dukett symarry || growth mindsit |https://github.com/SUMAYAGHANEM/reading-notes-Repo/blob/main/growth.md||
+| dukett symmary |||
  
  
