@@ -6,5 +6,6 @@ my name is Sumaia Ghanem, im 24 years old , im an architect.<P>
 | growth mindsit |https://github.com/SUMAYAGHANEM/reading-notes-Repo/blob/main/growth.md|
 | Html and css design |https://github.com/SUMAYAGHANEM/reading-notes-Repo/blob/main/HTML-%26-css-design.md|
 | how computer work |https://github.com/SUMAYAGHANEM/reading-notes-Repo/blob/main/how-computer-works.md|
+| Javascript |https://github.com/SUMAYAGHANEM/reading-notes-Repo/blob/main/Javascript.md|
  
  
