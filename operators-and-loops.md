@@ -15,5 +15,7 @@ to compare the value in the script with what is expected .
 2-while loop : use it when you want strings as anoutcome.
 3-do-while loop : it will run the statement inside the curly brackets at least once.
 
-(
+## loop counters
+
+![for loop](https://cdn.javascripttutorial.net/wp-content/uploads/2020/01/JavaScript-for-Loop.png)
 
